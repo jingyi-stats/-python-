@@ -30,4 +30,4 @@ elif condition == "sick":
 elif condition == "chill":
     print("Go to study.")
 else:
-    print("Sorry, I don't understand your condition.")
+    print("Sorry, I don\'t understand \"your condition\".")
