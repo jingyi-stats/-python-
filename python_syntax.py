@@ -31,3 +31,28 @@ elif condition == "chill":
     print("Go to study.")
 else:
     print("Sorry, I don\'t understand \"your condition\".")
+
+print('I\'m learning\nPython.')
+
+print('\\\n\\')
+
+print('\\\t\\')
+
+print(r'\\\t\\')
+
+print('''line1
+line2
+line3''')
+
+# -*- coding: utf-8 -*-
+print(r'''hello,\n
+world''')
+
+True
+
+False
+
+3 > 2
+
+3 > 5
+
